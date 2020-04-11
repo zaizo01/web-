@@ -1,4 +1,4 @@
-# klk
+# Rick & Morty
 
 > My fantastic Nuxt.js project
 
